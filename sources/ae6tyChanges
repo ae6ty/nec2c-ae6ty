@@ -1,0 +1,10 @@
+dec-7-21
+	use stdin if no input file is presented.
+	use stdout if no input file nor output file is presented.
+	remove check for no arguments.
+	add QQ line for quiet output
+	add YY line for 'short form' of impedance
+mar-7-22
+	add MP line for specifying multi-processors
+	
+	
